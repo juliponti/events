@@ -1,7 +1,8 @@
 # Eventos
 
-Ejercicio para [CourseIt](https://courseit.io/)
----
+## Ejercicio para [CourseIt](https://courseit.io/)
+
+
 > * Con HTML y CSS replicar el siguiente diseño:
 >
 > ![alt text](https://courseit-statics.nyc3.digitaloceanspaces.com/contenido/online/javascript/img/clase14.png)
